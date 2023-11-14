@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ajay 😚
 
-I am located in Sydney and studying to become a full-stack web developer through the AIT CoderAcademy  <iframe src="https://giphy.com/embed/WHNgZAZ6J2Ei6UuhY2" width="293" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ralph-work-WHNgZAZ6J2Ei6UuhY2">via GIPHY</a></p>
-
+I am located in Sydney and studying to become a full-stack web developer through the AIT CoderAcademy   
+<div style="width:100%;height:0;padding-bottom:164%;position:relative;"><iframe src="https://giphy.com/embed/WHNgZAZ6J2Ei6UuhY2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ralph-work-WHNgZAZ6J2Ei6UuhY2">via GIPHY</a></p>
 
 
 ## Tech Stack 
